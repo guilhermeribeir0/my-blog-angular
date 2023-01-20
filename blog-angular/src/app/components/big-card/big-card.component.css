@@ -1,0 +1,25 @@
+.big-card-container {
+    border: 1px solid white;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.image img {
+    width: 580px;
+}
+
+.title h1 {
+    font-size: 1.8rem;
+    margin-top: 10px;
+}
+
+.description {
+    font-size: 1rem;
+    color: whitesmoke;
+    margin-top: 10px;
+}
