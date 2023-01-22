@@ -13,5 +13,5 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    color: rgb(255, 208, 0);
 }
