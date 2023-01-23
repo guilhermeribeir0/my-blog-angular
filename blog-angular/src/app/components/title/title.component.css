@@ -2,6 +2,10 @@
     color: white;
 }
 
+hr {
+    border-color: rgb(114, 114, 114);
+}
+
 .title-container h1 {
     margin: 10px 0px 10px 0px;
     font-size: 140px;

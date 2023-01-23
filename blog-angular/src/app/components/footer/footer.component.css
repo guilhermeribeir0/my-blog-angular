@@ -1,0 +1,19 @@
+.footer-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.separator hr {
+    border-color: rgb(114, 114, 114);
+}
+
+.content-footer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.content-footer span {
+    color: rgb(255, 208, 0);
+}
+
