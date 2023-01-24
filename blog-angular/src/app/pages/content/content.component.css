@@ -9,4 +9,28 @@
 
 .content_image img {
     width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.content_text {
+    width: 1000px;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: rgb(255, 208, 0);
+    color: #111111;
+    border-color: rgb(255, 208, 0);
+    cursor: pointer;
 }
