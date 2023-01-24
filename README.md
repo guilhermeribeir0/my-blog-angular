@@ -1,4 +1,4 @@
-<h1>MyBlog</h1>
+<h1>MY BLOG</h1>
 
 <p>A blog project with Angular.</p>
 
