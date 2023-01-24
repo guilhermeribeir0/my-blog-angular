@@ -1,3 +1,7 @@
+* {
+    background-color: rgb(255, 196, 0);
+}
+
 .title-container {
     color: white;
 }
@@ -15,9 +19,16 @@ hr {
 }
 
 .title-container h1 span {
-    color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
 }
 
 .title-container hr {
     margin: 5px 0px 5px 0px;
+}
+
+@media only screen and (max-width: 580px) {
+    .title-container h1 {
+        font-size: 80px;
+        font-weight: 500;
+    }
 }
